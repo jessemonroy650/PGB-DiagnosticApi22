@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.bsdmasterindex.pgbp-appversion"
+    id          = "com.bsdmasterindex.pgbp-diagnostic-api22"
     version     = "1.0.1"
     versionCode = "100" > <!-- versionCode is optional and Android only -->
     <!-- Tool Set Version -->        
     <preference name='phonegap-version' value='cli-5.2.0' />
 
-    <name>PGBP AppVersion</name>
-    <description>PGBP AppVersion</description>
+    <name>PGBP DiagnosticApi22</name>
+    <description>PGBP DiagnosticApi22</description>
     <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">Jesse Monroy</author>
 
     <!-- Target Platforms -->
